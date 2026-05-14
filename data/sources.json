@@ -11,7 +11,8 @@
     "name": "ScienceDirect Browse Calls for Papers",
     "url": "https://www.sciencedirect.com/browse/calls-for-papers",
     "priority": "official-central",
-    "parser": "sciencedirect-cfp"
+    "parser": "sciencedirect-cfp",
+    "fallbackUrl": "https://r.jina.ai/http://https://www.sciencedirect.com/browse/calls-for-papers"
   },
   {
     "id": "elsevier-special-issues",
