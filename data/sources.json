@@ -1,0 +1,51 @@
+[
+  {
+    "id": "local-cfp-source-md",
+    "name": "Local Elsevier / IEEE CFP source inventory",
+    "url": "elsevier_ieee_special_issue_cfp_sources_2026-05-14.md",
+    "priority": "local-reference",
+    "parser": "manual-review"
+  },
+  {
+    "id": "sciencedirect-cfp",
+    "name": "ScienceDirect Browse Calls for Papers",
+    "url": "https://www.sciencedirect.com/browse/calls-for-papers",
+    "priority": "official-central",
+    "parser": "sciencedirect-cfp"
+  },
+  {
+    "id": "elsevier-special-issues",
+    "name": "Elsevier Special Issues guide",
+    "url": "https://www.elsevier.com/researcher/author/submit-your-paper/special-issues",
+    "priority": "official-docs",
+    "parser": "manual-review"
+  },
+  {
+    "id": "ieee-comsoc-magazine",
+    "name": "IEEE Communications Magazine CFP",
+    "url": "https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp",
+    "priority": "official-society",
+    "parser": "ieee-comsoc-cfp"
+  },
+  {
+    "id": "ieee-jsac",
+    "name": "IEEE JSAC CFP",
+    "url": "https://www.comsoc.org/publications/journals/ieee-jsac/cfp",
+    "priority": "official-society",
+    "parser": "ieee-comsoc-cfp"
+  },
+  {
+    "id": "ieee-sps-special-issues",
+    "name": "IEEE SPS Special Issue Deadlines",
+    "url": "https://signalprocessingsociety.org/publications-resources/special-issue-deadlines",
+    "priority": "official-society",
+    "parser": "ieee-sps-cfp"
+  },
+  {
+    "id": "ieee-access-sections",
+    "name": "IEEE Access Special Sections",
+    "url": "https://ieeeaccess.ieee.org/sections/special-sections/",
+    "priority": "official-journal",
+    "parser": "ieee-access-cfp"
+  }
+]
