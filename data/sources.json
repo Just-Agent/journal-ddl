@@ -18,7 +18,7 @@
     "name": "Elsevier Special Issues guide",
     "url": "https://www.elsevier.com/researcher/author/submit-your-paper/special-issues",
     "priority": "official-docs",
-    "parser": "manual-review"
+    "parser": "generic-link-date"
   },
   {
     "id": "ieee-comsoc-magazine",
